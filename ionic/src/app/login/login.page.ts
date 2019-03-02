@@ -15,7 +15,7 @@ export class LoginPage implements OnInit {
     /*Initializing Map*/
    mapboxgl.accessToken = 'pk.eyJ1IjoidmluejE5OTJhIiwiYSI6ImNqbTVnNWwyNDB6djMza24ybG91bTdydnEifQ.N-Y2oTV2cJg6W5iTCE5RfA';
    var map = new mapboxgl.Map({
-   style: 'mapbox://styles/mapbox/light-v9',
+   style: 'mapbox://styles/vinz1992a/cjsr2xt3o5f9b1fpot6n6bixe',
    center: [-103.349609, 20.659698], //guadalajara coordinates
    zoom: 16,
    pitch: 80,
